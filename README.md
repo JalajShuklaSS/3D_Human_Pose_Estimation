@@ -1,11 +1,7 @@
 #  3D human pose estimation from 2D joint poses using Generative Adversarial Networks (GAN)
 The provided Python script is an implementation of 3D human pose estimation from 2D joint poses using Generative Adversarial Networks (GANs). The approach is inspired by the research paper titled "Unsupervised adversarial learning of 3d human pose from 2d joint locations" (https://arxiv.org/pdf/1803.08244.pdf). The script is structured to perform training and testing of the GAN-based 3D pose estimation model.
 
-<p float="centre">
-  <img src="Results/img6_2d.png" width="500" />
-  <img src="Results/img6_3d.png" width="500" />
-  <img src="Results/img6_orig.png" width="500" />
-</p>
+
 
 ## Major Components:
 
